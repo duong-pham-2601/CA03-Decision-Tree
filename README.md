@@ -4,10 +4,10 @@ This repository implements the Decision Tree algorithm for classifying individua
 
 ## Usage
 
-Run the code blocks in `CA03_decision_tree.ipynb` sequentially for data understanding and processing, training, evaluating the model with various metrics, hyperparameter tunining, the visualization the best tree found.
+Run the code blocks in `CA03_decision_tree.ipynb` sequentially for data understanding and processing, training, evaluating the model with various metrics, hyperparameter tunining, and visualizing the best tree found.
 
 ## Required packages
-The code requires `pandas` for reading and processing data, and `sklearn` for the implementation of the Decision Tree algorithm and metric calculation. `seaborn` and `matplotlib` are also needed for visualization.
+The code requires `pandas` for reading and processing data and `sklearn` for the implementation of the Decision Tree algorithm and metric calculation. `seaborn` and `matplotlib` are also needed for visualization.
 
 ## Software/Library versions
 - Python: 3.11.5
